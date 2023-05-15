@@ -6,3 +6,6 @@ This is the landing page for all projects published by the non-profit.  Donation
 
 ## project list
 
+[Purr2Purr SDK](https://github.com/thatcatcamp/purr2purrsdk).
+[Linux USB NFC Scanner driver - updated for modern reader](https://github.com/thatcatcamp/CCID).
+
